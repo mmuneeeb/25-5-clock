@@ -1,4 +1,4 @@
 # 25+5 Clock
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/mmuneeeb/pen/oNaVVPV](https://codepen.io/mmuneeeb/pen/oNaVVPV).
+This is my solution for the 25+5 clock project for Data Visualization module on freecodecamp.org. View here: https://codepen.io/mmuneeeb/pen/oNaVVPV
 
